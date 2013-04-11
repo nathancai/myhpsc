@@ -1,0 +1,6 @@
+Code run by **Nathan Juswanto**
+Environment variable UWHPSC is /home/nathancai/Dropbox/UW/AMATH 583 - High Performance Scientific Computing/uwhpsc
+Environment variable MYHPSC is /home/nathancai/Dropbox/UW/AMATH 583 - High Performance Scientific Computing/myhpsc
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
